@@ -38,3 +38,8 @@ div.mes caption.titulo {
   font-size: 18px;
   color: #c00;
 }
+
+body
+{
+  background-color: blue;
+}
